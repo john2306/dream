@@ -85,7 +85,7 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'dreamDB',
+            'NAME': 'dreamdb',
             'USER': 'dream_admin',
             'PASSWORD': 'qazwsx,.-UNI',
             'HOST': 'localhost',
